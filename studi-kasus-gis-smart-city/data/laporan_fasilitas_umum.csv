@@ -1,0 +1,11 @@
+id_laporan,judul,kategori,status,latitude,longitude,deskripsi
+RPT-001,Jalan berlubang,Jalan,Belum ditangani,-3.8005,102.265,Permukaan jalan rusak
+RPT-002,Lampu jalan mati,Penerangan,Diproses,-3.7928,102.2702,Lampu tidak menyala
+RPT-003,Drainase tersumbat,Drainase,Belum ditangani,-3.807,102.2585,Saluran air tersumbat
+RPT-004,Bangku taman rusak,Taman,Selesai,-3.7862,102.278,Bangku perlu diperbaiki
+RPT-005,Rambu lalu lintas rusak,Jalan,Diproses,-3.815,102.267,Rambu terlihat rusak
+RPT-006,Sampah menumpuk,Kebersihan,Belum ditangani,-3.795,102.25,Sampah belum diangkut
+RPT-007,Lampu jalan mati,Penerangan,Belum ditangani,-3.823,102.28,Penerangan tidak berfungsi
+RPT-008,Trotoar rusak,Jalan,Selesai,-3.789,102.26,Permukaan trotoar rusak
+RPT-009,Drainase tersumbat,Drainase,Diproses,-3.8035,102.276,Aliran air kurang lancar
+RPT-010,Sampah menumpuk,Kebersihan,Belum ditangani,-3.78,102.255,Tumpukan sampah dekat jalan
